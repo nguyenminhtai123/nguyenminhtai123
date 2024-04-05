@@ -23,13 +23,11 @@
 
 - 🏦 I'm currently study at 𝘗𝘰𝘴𝘵𝘴 𝘢𝘯𝘥 𝘛𝘦𝘭𝘦𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘦 𝘰𝘧 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 - 𝘗𝘛𝘐𝘛
 
-  
-  
 
 - 🌱 I’m currently learning Flutter, Java and Swift  
   
 
-- ❓ Ask me about anything related to Flutter  
+- ❓ Ask me about anything related to Flutter and Spring Boot 
   
 
 - 📫 How to reach me : nguyentychicus@gmail.com  
